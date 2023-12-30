@@ -1,0 +1,18 @@
+You must add .env file to configure port and datababse configure require('dotenv').config();
+
+HOST = "Localhost"
+DATABASE_NAME = "eCommerce-Project"
+DATABASE = "mongodb://localhost:27017"
+RUNNING_PORT = 5050
+JWT_SECRET = "ABC-123-XYZ"
+
+MONGODB_USER_NAME = 
+MONGODB_USER_PASSWORD = 
+
+
+EMAIL_CONFIGURATION =
+EMAIL_HOST = "mail.adbiyastravel.com"
+EMAIL_PORT = 25
+EMAIL_USER = "info@adbiyastravel.com"
+EMAIL_PASS = "MAVg6Br?i_$n"
+EMAIL_FROM = "MEHEDI MERN ECOMMERCE <info@adbiyastravel.com>"
